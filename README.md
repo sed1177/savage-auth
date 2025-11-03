@@ -9,3 +9,4 @@ A full-stack web application that allows users to **sign up, log in, and interac
 - **Authentication:** Passport.js
 - **Frontend:** EJS templating, HTML, CSS!
 
+![Savage Auth Poster](public/img/savageauth.jpg)
